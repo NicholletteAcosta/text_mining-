@@ -1,2 +1,2 @@
-# text_mining-
-Website scraping program
+# text_mining
+Beginner website scraping program with Python
